@@ -5,6 +5,7 @@
 <p>-💪🏼 Let's Connect</p>
 <p>-🕗 I am currently in my first year of B.Tech CSE.</p>
 <p>-🦁 Right now I am exploring Web Development.</p>
+<p>-💪🏼 Building in Punlic </p>
 <p>-😁 Life is Enjoy!!</p>
 
 # 💻 Tech Stack:
