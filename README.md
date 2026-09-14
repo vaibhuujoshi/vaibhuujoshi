@@ -3,7 +3,7 @@
 <h3 align="center">Your friendly neighbour-hood Dev</h3>
 <p>-📚 I’m learning MERN Stack</p>
 <p>-💪🏼 Let's Connect</p>
-<p>-🕗 I am currently in my first year of B.Tech CSE.</p>
+<p>-🕗 I am currently in my second year of B.Tech CSE.</p>
 <p>-🦁 Right now I am exploring Web Development.</p>
 <p>-💪🏼 Building in Public </p>
 <p>-😁 Life is Enjoy!!</p>
