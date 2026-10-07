@@ -4,7 +4,7 @@
 
 ### Your friendly neighborhood Dev
 
-- 📚 I’m learning the **MERN Stack**
+- 📚 I’m learning Web Dev by building stuffs!!
 - 🕗 I am currently in my second year of **B.Tech CSE**
 - 🦁 Right now I am exploring **Web Development**
 - 💪🏼 **Building in Public** & always open to connect!
